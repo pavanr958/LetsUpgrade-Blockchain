@@ -1,0 +1,37 @@
+
+Sai Pavan Kumar
+ 
+
+LetsUpgrade
+Blockchain :
+A blockchain is a digital, public ledger that records online transactions. Blockchain is the core technology for cryptocurrencies like bitcoin. A blockchain ensures... 
+
+
+Blockchain  Essential 
+DAY 1 ASSIGNMENT 1:-
+
+1)• What is your understanding of Blockchain?
+Ans:- Blockchain is the mixture of distributed database & cryptography technology. It is ledger having transaction records which ensures security, transparency and decentralisation. The blocks are consecutively connected by a link where two ends of the link include the parent hash of previous block and the current hash of respective block. So even a minor change to any data results to change of sequence in every other block in the series.
+
+2)• What is the core problem blockchain trying to solve?
+Ans:- There are 3 core problems:
+1). Authenticity
+2). Security
+3). Verification
+
+3)• What are the few features which blockchain will give u?
+Ans:- It consists of the following features:
+1). Verifiable
+2). Unchanged
+3). Tamper-Proof
+4). Immutable
+
+4)• What all things does a Block Contain?
+Ans:- A block contains the following
+1). Block number
+2). Transaction records
+3). Previous hash key
+4). Mining key
+
+5)• How is the verifiability of Blockchain is been attained ?
+Ans:- Blockchain is based on distributed database, which prevents data loss from any of the systems.If the data in one block changes then it should be changed in other blocks also. 
